@@ -1,5 +1,17 @@
 {
+  "name": "algo-pad-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node padArray.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Michael Termotto",
+  "license": "ISC",
   "dependencies": {
+    "jest": "^29.6.4",
     "shallow-equal": "^3.1.0"
   }
 }
